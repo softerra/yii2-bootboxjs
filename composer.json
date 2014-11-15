@@ -1,0 +1,21 @@
+{
+    "name": "huijiewei/yii2-bootboxjs",
+    "description": "BootboxJs assets For Yii 2",
+    "keywords": ["yii2", "bootbox"],
+    "license": "GPLv3",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Huijie Wei",
+            "email": "huijiewei@outlook.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "huijiewei\\bootboxjs\\": ""
+        }
+    }
+}
