@@ -2,9 +2,6 @@
     "name": "life2016/yii2-bootboxjs",
     "minimum-stability": "stable",
     "description": "BootboxJs assets For Yii 2",
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "huijiewei\\bootboxjs\\": ""
