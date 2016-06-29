@@ -1,10 +1,10 @@
 {
     "name": "life2016/yii2-bootboxjs",
-	"minimum-stability": "dev",
+     "minimum-stability": "dev",
     "description": "BootboxJs assets For Yii 2",
     "keywords": ["yii2", "bootbox"],
     "type": "yii2-extension",
-	"license": "GPLv3",
+    "license": "GPLv3",
     "autoload": {
         "psr-4": {
             "huijiewei\\bootboxjs\\": ""
