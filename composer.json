@@ -2,9 +2,6 @@
     "name": "life2016/yii2-bootboxjs",
     "minimum-stability": "stable",
     "description": "BootboxJs assets For Yii 2",
-    "keywords": ["yii2", "bootbox"],
-    "type": "yii2-extension",
-    "license": "GPLv3",
     "require": {
         "yiisoft/yii2": "*"
     },
