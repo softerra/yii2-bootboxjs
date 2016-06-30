@@ -13,13 +13,13 @@ use yii\web\AssetBundle;
 
 class BootboxjsAsset extends AssetBundle
 {
-    public $sourcePath = '@huijiewei/bootboxjs/assets';
+    public $sourcePath = '@vendor/life2016/yii2-bootboxjs/assets';
 
     public $js = [
-        'js/bootbox.js',
+        'js/bootbox.min.js',
     ];
-	
-	   /**
+    
+    /**
      * Registers this asset bundle with a view.
      * @param \yii\web\View $view the view to be registered with
      * @return static the registered asset bundle instance
