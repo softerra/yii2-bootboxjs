@@ -13,7 +13,7 @@ use yii\web\AssetBundle;
 
 class BootboxjsAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/life2016/yii2-bootboxjs/assets';
+    public $sourcePath = '@vendor/softerra/yii2-bootboxjs/assets';
 
     public $js = [
         'js/bootbox.min.js',
