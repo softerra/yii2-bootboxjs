@@ -1,6 +1,5 @@
 {
-    "name": "life2016/yii2-bootboxjs",
-    "minimum-stability": "stable",
+    "name": "softerra/yii2-bootboxjs",
     "description": "BootboxJs assets For Yii 2",
     "autoload": {
         "psr-4": {
